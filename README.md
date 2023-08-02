@@ -1,7 +1,7 @@
   ## Olá, eu sou Ataides Neto
 
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Analista de Dados
 - 😄 Pronouns: ele/dele
 
 <div align="center">
